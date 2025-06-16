@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D GOLF 정우진 프로</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+    header { background: #1c1c1c; color: white; padding: 1rem; text-align: center; }
+    nav a { margin: 0 1rem; color: white; text-decoration: none; }
+    section { padding: 2rem; max-width: 800px; margin: auto; background: white; margin-bottom: 1rem; }
+    footer { text-align: center; padding: 1rem; background: #eaeaea; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>3D GOLF 정우진 프로</h1>
+    <nav>
+      <a href="#about">소개</a>
+      <a href="#program">레슨</a>
+      <a href="#profile">프로필</a>
+      <a href="#contact">문의</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>정우진 프로 소개</h2>
+    <p>3D GOLF 정우진 프로는 과학적인 스윙 분석과 맞춤형 지도를 통해 주니어부터 성인까지 최적의 골프 레슨을 제공합니다.</p>
+  </section>
+
+  <section id="program">
+    <h2>레슨 프로그램</h2>
+    <ul>
+      <li>1:1 프라이빗 레슨</li>
+      <li> 스윙 분석 시스템 활용</li>
+      <li>주니어/입시/프로 트랙별 맞춤 지도</li>
+    </ul>
+  </section>
+
+  <section id="profile">
+    <h2>정우진 프로 이력</h2>
+    <p>국내외 골프 대회 출전 및 수상 경력 다수. 골프 트레이닝 전문 자격 보유.</p>
+  </section>
+
+  <section id="contact">
+    <h2>문의</h2>
+    <p>이메일: 8128619@naver.com <br>전화: 010-8666-8619</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 3D GOLF 정우진 프로</p>
+  </footer>
+</body>
+</html>
